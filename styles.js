@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
     height: 40,
     borderColor: 'gray', 
     borderWidth: 1,
-    marginBotton: 12,
+    marginBottom: 12,
     paddingHorizontal: 8,
   },
 });
